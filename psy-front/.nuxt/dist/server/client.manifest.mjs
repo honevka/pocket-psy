@@ -1,0 +1,1 @@
+export { default } from "file:///Users/honevka/pocket-psy/psy-front/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
