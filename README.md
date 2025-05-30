@@ -1,3 +1,9 @@
 # pocket-psy
-backend:  fastapi dev main.py
-frontend: npx nuxi dev 
+backend:  
+cd psy-back
+source .venv/bin/activate
+fastapi dev main.py
+
+frontend: 
+cd psy-front
+npx nuxi dev 
